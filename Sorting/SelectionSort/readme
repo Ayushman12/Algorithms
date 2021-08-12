@@ -1,0 +1,6 @@
+The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
+1) The subarry which is already sorted.
+2) Remaining subarray which is unsorted.
+
+Time Complexity : O(n*n) 
+Auxiliary Space : O(1)
